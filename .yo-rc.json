@@ -1,0 +1,27 @@
+{
+  "generator-jhipster": {
+    "applicationIndex": 2,
+    "applicationType": "microservice",
+    "authenticationType": "oauth2",
+    "baseName": "store",
+    "buildTool": "maven",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "enableHibernateCache": false,
+    "entities": ["Product"],
+    "jhipsterVersion": "8.3.0",
+    "jwtSecretKey": "OTg5MjYyMjY1YjNiNmM0ZDdiYWE3MTAzODRiMWM4ZTQ1YTU5ZTFlZmU5NjUzYWM4MTEyNzNiYjk1YzFjZGYyMjQ4NDQzMzVkYjhmMTFkOTg2YTNmYjg1MGU0M2IwMDZmYmRhZDNiOWU4YWVkYmEzNjU5ODc0MWVhOTYxMGE5ZmQ=",
+    "languages": ["en"],
+    "lastLiquibaseTimestamp": 1713547949000,
+    "nativeLanguage": "en",
+    "packageFolder": "com/msun/store",
+    "packageName": "com.msun.store",
+    "prodDatabaseType": "mongodb",
+    "reactive": true,
+    "serverPort": "8082",
+    "serviceDiscoveryType": "eureka",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "syncUserWithIdp": false
+  }
+}
